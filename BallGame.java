@@ -3,6 +3,7 @@
     LOGIC :
       If the ball move forward to the stright line path. 
       If the ball clash in to the rectangular object if end the game.
+      If Enter the "SHIFT" to start the game
       If you Enter the the "ENTER" key the Ball move UP direction
   */
 
